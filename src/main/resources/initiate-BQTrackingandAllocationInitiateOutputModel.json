@@ -1,0 +1,14 @@
+{
+  "trackingandAllocationAllocationSchedule" : "trackingandAllocationAllocationSchedule",
+  "cashInventoryAllocation" : "cashInventoryAllocation",
+  "cashInventoryAllocationServiceInputsandOuputs" : "cashInventoryAllocationServiceInputsandOuputs",
+  "cashInventoryAllocationServiceWorkProduct" : "cashInventoryAllocationServiceWorkProduct",
+  "trackingandAllocationInitiateActionReference" : "TAAIAR733527",
+  "cashInventoryAllocationServiceDescription" : "cashInventoryAllocationServiceDescription",
+  "trackingandAllocationPreconditions" : "trackingandAllocationPreconditions",
+  "cashInventoryAllocationServiceType" : "cashInventoryAllocationServiceType",
+  "trackingandAllocationInstanceReference" : "TAAIR741819",
+  "cashInventoryAllocationServiceName" : "cashInventoryAllocationServiceName",
+  "trackingandAllocationInitiateActionRecord" : {},
+  "trackingandAllocationInstanceStatus" : "trackingandAllocationInstanceStatus"
+}

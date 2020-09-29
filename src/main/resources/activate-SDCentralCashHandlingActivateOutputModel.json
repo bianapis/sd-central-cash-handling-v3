@@ -1,0 +1,24 @@
+{
+  "centralCashHandlingServicingSessionStatus" : "centralCashHandlingServicingSessionStatus",
+  "centralCashHandlingServicingSessionReference" : "SSSR783215",
+  "centralCashHandlingActivationActionTaskReference" : "SAATR758836",
+  "centralCashHandlingActivationActionTaskRecord" : {},
+  "centralCashHandlingServicingSessionRecord" : {},
+  "centralCashHandlingServiceConfigurationRecord" : {
+    "centralCashHandlingServiceConfigurationSettingReference" : "700761",
+    "centralCashHandlingServiceConfigurationSettingDescription" : "centralCashHandlingServiceConfigurationSettingDescription",
+    "centralCashHandlingServiceSubscription" : {
+      "centralCashHandlingServiceSubscriberReference" : "769192",
+      "centralCashHandlingServiceSubscriberAccessProfile" : "centralCashHandlingServiceSubscriberAccessProfile"
+    },
+    "centralCashHandlingServiceStatus" : "centralCashHandlingServiceStatus",
+    "centralCashHandlingServiceAgreement" : {
+      "centralCashHandlingServiceAgreementReference" : "791202",
+      "centralCashHandlingServiceAgreementTermsandConditions" : "centralCashHandlingServiceAgreementTermsandConditions",
+      "centralCashHandlingServiceUserReference" : "767210"
+    },
+    "centralCashHandlingServiceConfigurationSetup" : {
+      "centralCashHandlingServiceConfigurationParameter" : "centralCashHandlingServiceConfigurationParameter"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cashInventoryProjectionServiceDescription" : "cashInventoryProjectionServiceDescription",
+  "projectionandAllocationAllocationSchedule" : "projectionandAllocationAllocationSchedule",
+  "projectionandAllocationExchangeActionTaskReference" : "PAAEATR738101",
+  "cashInventoryProjection" : "cashInventoryProjection",
+  "projectionandAllocationExchangeActionResponse" : "projectionandAllocationExchangeActionResponse",
+  "cashInventoryProjectionServiceInputsandOuputs" : "cashInventoryProjectionServiceInputsandOuputs",
+  "projectionandAllocationInstanceStatus" : "projectionandAllocationInstanceStatus",
+  "projectionandAllocationExchangeActionTaskRecord" : {},
+  "cashInventoryProjectionServiceType" : "cashInventoryProjectionServiceType",
+  "projectionandAllocationPreconditions" : "projectionandAllocationPreconditions",
+  "cashInventoryProjectionServiceWorkProduct" : "cashInventoryProjectionServiceWorkProduct"
+}

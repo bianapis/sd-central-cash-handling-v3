@@ -1,0 +1,25 @@
+{
+  "trackingandAllocationRetrieveActionTaskReference" : "TAARATR748724",
+  "trackingandAllocationAllocationSchedule" : "trackingandAllocationAllocationSchedule",
+  "trackingandAllocationInstanceAnalysis" : {
+    "trackingandAllocationInstanceAnalysisReportType" : "trackingandAllocationInstanceAnalysisReportType",
+    "trackingandAllocationInstanceAnalysisRecord" : {},
+    "trackingandAllocationInstanceAnalysisParameters" : "trackingandAllocationInstanceAnalysisParameters",
+    "trackingandAllocationInstanceAnalysisReport" : {}
+  },
+  "cashInventoryAllocation" : "cashInventoryAllocation",
+  "cashInventoryAllocationServiceInputsandOuputs" : "cashInventoryAllocationServiceInputsandOuputs",
+  "cashInventoryAllocationServiceWorkProduct" : "cashInventoryAllocationServiceWorkProduct",
+  "cashInventoryAllocationServiceName" : "cashInventoryAllocationServiceName",
+  "trackingandAllocationInstanceReport" : {
+    "trackingandAllocationInstanceReport" : {},
+    "trackingandAllocationInstanceReportRecord" : {},
+    "trackingandAllocationInstanceReportType" : "trackingandAllocationInstanceReportType",
+    "trackingandAllocationInstanceReportParameters" : "trackingandAllocationInstanceReportParameters"
+  },
+  "trackingandAllocationRetrieveActionTaskRecord" : {},
+  "trackingandAllocationRetrieveActionResponse" : "trackingandAllocationRetrieveActionResponse",
+  "cashInventoryAllocationServiceDescription" : "cashInventoryAllocationServiceDescription",
+  "trackingandAllocationPreconditions" : "trackingandAllocationPreconditions",
+  "cashInventoryAllocationServiceType" : "cashInventoryAllocationServiceType"
+}

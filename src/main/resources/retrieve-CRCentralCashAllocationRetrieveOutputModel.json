@@ -1,0 +1,31 @@
+{
+  "centralCashAllocationDescription" : "centralCashAllocationDescription",
+  "centralCashAllocationAccountType" : "centralCashAllocationAccountType",
+  "centralCashAllocationInstanceAnalysis" : {
+    "centralCashAllocationInstanceAnalysisData" : "centralCashAllocationInstanceAnalysisData",
+    "centralCashAllocationInstanceAnalysisReport" : {},
+    "centralCashAllocationInstanceAnalysisReportType" : "centralCashAllocationInstanceAnalysisReportType"
+  },
+  "centralCashAllocationParameterType" : "centralCashAllocationParameterType",
+  "centralCashAllocationStatus" : "centralCashAllocationStatus",
+  "centralCashAllocationRegulationReference" : "CCARR765034",
+  "centralCashAllocationJurisdiction" : "centralCashAllocationJurisdiction",
+  "centralCashAllocationReference" : "CCAR786625",
+  "centralCashAllocationRegulationType" : "centralCashAllocationRegulationType",
+  "centralCashAllocationAccountReference" : "CCAAR757497",
+  "centralCashAllocationSchedule" : "centralCashAllocationSchedule",
+  "centralCashAllocationInstanceReportRecord" : {
+    "centralCashAllocationInstanceReport" : {},
+    "centralCashAllocationInstanceReportData" : "centralCashAllocationInstanceReportData",
+    "centralCashAllocationInstanceReportType" : "centralCashAllocationInstanceReportType"
+  },
+  "centralCashAllocationCurrency" : "USD",
+  "centralCashAllocationBookingLocation" : "centralCashAllocationBookingLocation",
+  "centralCashAllocationRetrieveActionTaskReference" : "CCARATR752264",
+  "centralCashAllocationRetrieveActionTaskRecord" : {},
+  "centralCashAllocation<SubjectArea>Type" : "centralCashAllocation<SubjectArea>Type",
+  "centralCashAllocationRequest" : "centralCashAllocationRequest",
+  "centralCashAllocationRetrieveActionResponse" : "centralCashAllocationRetrieveActionResponse",
+  "centralCashAllocationSelectedOption" : "centralCashAllocationSelectedOption",
+  "centralCashAllocationCustomerReference" : "CCACR788044"
+}

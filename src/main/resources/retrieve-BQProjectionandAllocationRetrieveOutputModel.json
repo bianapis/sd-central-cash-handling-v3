@@ -1,0 +1,24 @@
+{
+  "cashInventoryProjectionServiceDescription" : "cashInventoryProjectionServiceDescription",
+  "projectionandAllocationAllocationSchedule" : "projectionandAllocationAllocationSchedule",
+  "projectionandAllocationRetrieveActionResponse" : "projectionandAllocationRetrieveActionResponse",
+  "cashInventoryProjection" : "cashInventoryProjection",
+  "cashInventoryProjectionServiceInputsandOuputs" : "cashInventoryProjectionServiceInputsandOuputs",
+  "projectionandAllocationInstanceReport" : {
+    "projectionandAllocationInstanceReportRecord" : {},
+    "projectionandAllocationInstanceReportParameters" : "projectionandAllocationInstanceReportParameters",
+    "projectionandAllocationInstanceReport" : {},
+    "projectionandAllocationInstanceReportType" : "projectionandAllocationInstanceReportType"
+  },
+  "projectionandAllocationInstanceAnalysis" : {
+    "projectionandAllocationInstanceAnalysisRecord" : {},
+    "projectionandAllocationInstanceAnalysisParameters" : "projectionandAllocationInstanceAnalysisParameters",
+    "projectionandAllocationInstanceAnalysisReportType" : "projectionandAllocationInstanceAnalysisReportType",
+    "projectionandAllocationInstanceAnalysisReport" : {}
+  },
+  "cashInventoryProjectionServiceType" : "cashInventoryProjectionServiceType",
+  "projectionandAllocationPreconditions" : "projectionandAllocationPreconditions",
+  "cashInventoryProjectionServiceWorkProduct" : "cashInventoryProjectionServiceWorkProduct",
+  "projectionandAllocationRetrieveActionTaskReference" : "PAARATR744428",
+  "projectionandAllocationRetrieveActionTaskRecord" : {}
+}

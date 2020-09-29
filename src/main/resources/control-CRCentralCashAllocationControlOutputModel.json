@@ -1,0 +1,11 @@
+{
+  "centralCashAllocationParameterType" : "centralCashAllocationParameterType",
+  "centralCashAllocationSchedule" : "centralCashAllocationSchedule",
+  "centralCashAllocationStatus" : "centralCashAllocationStatus",
+  "centralCashAllocationControlActionTaskReference" : "CCACATR773063",
+  "centralCashAllocationRequest" : "centralCashAllocationRequest",
+  "centralCashAllocationControlActionTaskRecord" : {},
+  "centralCashAllocationSelectedOption" : "centralCashAllocationSelectedOption",
+  "centralCashAllocationCustomerReference" : "CCACR706885",
+  "centralCashAllocationControlActionResponse" : "centralCashAllocationControlActionResponse"
+}

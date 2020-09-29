@@ -1,0 +1,13 @@
+{
+  "cashInventoryProjectionServiceDescription" : "cashInventoryProjectionServiceDescription",
+  "projectionandAllocationAllocationSchedule" : "projectionandAllocationAllocationSchedule",
+  "projectionandAllocationInitiateActionReference" : "PAAIAR722433",
+  "cashInventoryProjection" : "cashInventoryProjection",
+  "projectionandAllocationInstanceStatus" : "projectionandAllocationInstanceStatus",
+  "cashInventoryProjectionServiceInputsandOuputs" : "cashInventoryProjectionServiceInputsandOuputs",
+  "projectionandAllocationInitiateActionRecord" : {},
+  "cashInventoryProjectionServiceType" : "cashInventoryProjectionServiceType",
+  "projectionandAllocationPreconditions" : "projectionandAllocationPreconditions",
+  "cashInventoryProjectionServiceWorkProduct" : "cashInventoryProjectionServiceWorkProduct",
+  "projectionandAllocationInstanceReference" : "PAAIR751018"
+}

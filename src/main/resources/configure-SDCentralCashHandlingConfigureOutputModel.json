@@ -1,0 +1,21 @@
+{
+  "centralCashHandlingConfigurationActionTaskRecord" : {},
+  "centralCashHandlingServicingSessionStatus" : "centralCashHandlingServicingSessionStatus",
+  "centralCashHandlingConfigurationActionTaskReference" : "SCATR765419",
+  "centralCashHandlingServiceConfigurationRecord" : {
+    "centralCashHandlingServiceConfigurationSettingDescription" : "centralCashHandlingServiceConfigurationSettingDescription",
+    "centralCashHandlingServiceSubscription" : {
+      "centralCashHandlingServiceSubscriberReference" : "756221",
+      "centralCashHandlingServiceSubscriberAccessProfile" : "centralCashHandlingServiceSubscriberAccessProfile"
+    },
+    "centralCashHandlingServiceStatus" : "centralCashHandlingServiceStatus",
+    "centralCashHandlingServiceAgreement" : {
+      "centralCashHandlingServiceAgreementReference" : "721156",
+      "centralCashHandlingServiceAgreementTermsandConditions" : "centralCashHandlingServiceAgreementTermsandConditions",
+      "centralCashHandlingServiceUserReference" : "733696"
+    },
+    "centralCashHandlingServiceConfigurationSetup" : {
+      "centralCashHandlingServiceConfigurationParameter" : "centralCashHandlingServiceConfigurationParameter"
+    }
+  }
+}

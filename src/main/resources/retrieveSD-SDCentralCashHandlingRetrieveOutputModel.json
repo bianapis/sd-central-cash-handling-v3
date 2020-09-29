@@ -1,0 +1,39 @@
+{
+  "centralCashHandlingOfferedService" : {
+    "centralCashHandlingServiceRecord" : {
+      "centralCashHandlingServiceType" : "centralCashHandlingServiceType",
+      "centralCashHandlingServiceDescription" : "centralCashHandlingServiceDescription",
+      "centralCashHandlingServicePoliciesandGuidelines" : {
+        "centralCashHandlingServiceEligibility" : "centralCashHandlingServiceEligibility",
+        "centralCashHandlingServiceIntendedUses" : "centralCashHandlingServiceIntendedUses",
+        "centralCashHandlingServicePricingandTerms" : "centralCashHandlingServicePricingandTerms"
+      },
+      "centralCashHandlingServiceVersion" : "centralCashHandlingServiceVersion",
+      "centralCashHandlingServiceSchedule" : "centralCashHandlingServiceSchedule"
+    },
+    "centralCashHandlingServiceReference" : "776158"
+  },
+  "centralCashHandlingRetrieveActionRecord" : {
+    "centralCashHandlingActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "centralCashHandlingPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "centralCashHandlingRetrieveActionTaskRecord" : {},
+  "centralCashHandlingRetrieveActionResponse" : "centralCashHandlingRetrieveActionResponse",
+  "centralCashHandlingRetrieveActionTaskReference" : "SRATR795161"
+}

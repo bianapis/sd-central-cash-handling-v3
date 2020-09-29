@@ -1,0 +1,13 @@
+{
+  "projectionandAllocationControlActionTaskReference" : "PAACATR713477",
+  "cashInventoryProjectionServiceDescription" : "cashInventoryProjectionServiceDescription",
+  "projectionandAllocationAllocationSchedule" : "projectionandAllocationAllocationSchedule",
+  "cashInventoryProjection" : "cashInventoryProjection",
+  "cashInventoryProjectionServiceInputsandOuputs" : "cashInventoryProjectionServiceInputsandOuputs",
+  "projectionandAllocationInstanceStatus" : "projectionandAllocationInstanceStatus",
+  "cashInventoryProjectionServiceType" : "cashInventoryProjectionServiceType",
+  "projectionandAllocationControlActionTaskRecord" : {},
+  "projectionandAllocationControlActionResponse" : "projectionandAllocationControlActionResponse",
+  "projectionandAllocationPreconditions" : "projectionandAllocationPreconditions",
+  "cashInventoryProjectionServiceWorkProduct" : "cashInventoryProjectionServiceWorkProduct"
+}
